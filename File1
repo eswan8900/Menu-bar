@@ -1,14 +1,18 @@
 <html>
 
 <head>
+<meta name="author" content="Elena Swan"
+charset="utf-8">
 </head>
 
 <body>
 
 <ul>
-<li>Home</li>
-<li>Work Sample</li>
-<li>Contact</li>
+<li><a href="https://elenaswan752556461.wordpress.com/">Home</a></li>
+<li><a href="https://elenaswan752556461.wordpress.com/work-sample-2/">Work Sample</a></li>
+<li><a href="https://elenaswan752556461.wordpress.com/contact-me/  ">Contact</a></li>
 </ul>
 
 </body>
+
+</html>
